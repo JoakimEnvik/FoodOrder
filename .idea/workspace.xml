@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="484e0141-c960-4da8-80b2-aec5562e6f7f" name="Changes" comment="" />
+    <list default="true" id="484e0141-c960-4da8-80b2-aec5562e6f7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/yrgo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/yrgo/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -39,7 +44,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675954475990</updated>
+      <workItem from="1675954477280" duration="147000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
