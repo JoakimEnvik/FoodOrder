@@ -12,15 +12,15 @@ public class Main {
 
 
         while (true) {
-            System.out.println("vad vill du äta:");
-            menu.showMenu();
+            System.out.println("Vad vill du äta:");
+            System.out.println(menu.showMenu());
             input = scanner.nextLine();
             order.addToOrder(input);
-            System.out.println("Va det bra så?");
-            System.out.println("Y/N");
+            System.out.println("Var det bra så?");
+            System.out.println("J/N");
             input = scanner.nextLine();
 
-            if (input.equals("Y")) {
+            if (input.equals("J")) {
                 break;
             }
         }
