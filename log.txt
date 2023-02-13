@@ -1,0 +1,66 @@
+commit 801654fceaa77419d7deac37ded0e3902f4fbd73
+Merge: 485b4d0 6ba57c6
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 10:01:43 2023 +0100
+
+    sammanslagning
+
+commit 6ba57c65b0d853ccba5007a6301e21fd18dd9ccc
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Mon Feb 13 09:53:26 2023 +0100
+
+    Adding .idea/shelf to .gitignore
+
+commit 485b4d0c958d8d743425771a957135a58fc6ada9
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 09:53:09 2023 +0100
+
+    add test folders
+
+commit 1e43e25898b744e5f5e64300797f23cf0b240a8f
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Sun Feb 12 16:54:55 2023 +0100
+
+    remove blankspace in .gitignore
+
+commit 6401fc577c8263f9489252fc47a7fa26e6e9a56e
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Sun Feb 12 16:52:44 2023 +0100
+
+    create menu class
+
+commit ea7a5207020994524397bd51825aaf10b9b89b54
+Author: jessica abony <jessica_abony@hotmail.com>
+Date:   Sun Feb 12 16:36:49 2023 +0100
+
+    ignore all .class files
+
+commit dbcbcf0a019b9b755e1600eaadaceffa8900d43f
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Fri Feb 10 15:47:34 2023 +0100
+
+    update gitignore
+
+commit fb54288aa5c4cc06a7c7645e4c33c9f9638cf628
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Fri Feb 10 14:58:28 2023 +0100
+
+    create calculator class
+
+commit fece86752a4b65c7f6204cdc83f6ac5d71660e35
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Fri Feb 10 14:06:08 2023 +0100
+
+    update pom
+
+commit 9bc6abbd5e4a1289e9f34f66ffd650d965cd49b0
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Thu Feb 9 16:05:40 2023 +0100
+
+    second commit
+
+commit 7acec60a4a0debda9914bd9e3e3640f7ba93a66c
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Thu Feb 9 15:56:36 2023 +0100
+
+    first commit

@@ -21,11 +21,16 @@ public class Menu {
         foodMenu.put("Ice Cream", 69);
     }
 
-    public void showMenu() {
+    public String showMenu() {
+        StringBuilder sb = new StringBuilder();
         for (Map.Entry<String, Integer> entry : foodMenu.entrySet()) {
-            System.out.println(entry.getKey()
-                    + " kostar " + entry.getValue() + " kr");
+            sb.append(entry.getKey());
+            sb.append(" costs ");
+            sb.append(entry.getValue());
+            sb.append( " kr ");
+            sb.append("\n");
         }
+        return sb.toString();
     }
 
     public static Map<String, Integer> getFoodMenu() {
