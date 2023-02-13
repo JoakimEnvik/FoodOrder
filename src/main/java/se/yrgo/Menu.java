@@ -5,14 +5,14 @@ import java.util.Map;
 
 public class Menu {
 
-    public static Map <String, Integer> foodMenu = new HashMap<>();
+    public Map <String, Integer> foodMenu = new HashMap<>();
 
     public Menu() {
         this.foodMenu = foodMenu;
         addMeal();
     }
 
-    private static void addMeal() {
+    private void addMeal() {
         foodMenu.put("Lasagne", 125);
         foodMenu.put("Pizza", 140);
         foodMenu.put("Entrecote", 260);
@@ -28,7 +28,7 @@ public class Menu {
         }
     }
 
-    public static Map<String, Integer> getFoodMenu() {
+    public Map<String, Integer> getFoodMenu() {
         return foodMenu;
     }
 }
