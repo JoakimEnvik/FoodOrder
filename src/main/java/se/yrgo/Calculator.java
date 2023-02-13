@@ -9,7 +9,7 @@ public class Calculator {
     public static int calculateBill(List<String> bill) {
         Menu menu = new Menu();
         int total = 0;
-        for (Map.Entry<String, Integer> entry : Menu.foodMenu.entrySet()) {
+        for (Map.Entry<String, Integer> entry : menu.getFoodMenu().entrySet()) {
             for (String meal: bill) {
                 if(meal.equals(entry.getKey()))
                     total += entry.getValue();
