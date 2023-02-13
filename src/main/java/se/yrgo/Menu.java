@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class Menu {
 
-    public Map <String, Integer> foodMenu = new HashMap<>();
+    private Map <String, Integer> foodMenu = new HashMap<>();
 
     public Menu() {
         this.foodMenu = foodMenu;
