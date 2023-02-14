@@ -14,7 +14,9 @@ public class OrderTest {
     @Test
     public void addingToListAndGettingFromList() {
         order.addToOrder("test");
-        String[] test = {"test"};
+        order.addToOrder("test2");
+        String[] test = {"test", "test2"};
         assertArrayEquals(test, order.getOrder().toArray());
+        assertEquals(2, order.getOrder().size());
     }
 }
