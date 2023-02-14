@@ -1,3 +1,167 @@
+commit a2bac1e13d1b20379c8ae68ccfeed52b0f309473
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Tue Feb 14 10:23:18 2023 +0100
+
+    remove 'costs' from output in Menu class
+
+commit a269230d23f9f16a4b4efb6db5afba1377446511
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Tue Feb 14 10:16:28 2023 +0100
+
+    add javadoc comments
+
+commit d15e35abcd31ca04ef52ec94e9f653cfb928cef0
+Merge: 90ff3f2 3058735
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Tue Feb 14 08:30:44 2023 +0100
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 90ff3f277b98b9dffc8db6aa35acfec0ef4c2dd7
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Tue Feb 14 08:30:22 2023 +0100
+
+    Adding test size
+
+commit 3058735179aca0e4eb7a80364ec94da260e35167
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 21:13:16 2023 +0100
+
+    add README
+
+commit 50e2aaa4a5468b2fe9524576ce53634599cb5911
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 20:56:28 2023 +0100
+
+    edit MenuTest class
+
+commit 7a3ea7437817da69bbf9d10ff759d368ac5880ec
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 17:55:11 2023 +0100
+
+    fix typo in main
+
+commit 1e6e80a79370a63df1cc3981ed47ccd0133ffbb5
+Merge: 736e405 3d249c8
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 16:17:04 2023 +0100
+
+    merge add Calculator documentation
+
+commit 736e4053ba4f3e9925721a8f0cb93d9e07a26662
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Mon Feb 13 16:00:52 2023 +0100
+
+    cleaning
+
+commit 3d249c85ec19d1cc97eed1e6d9c8d6542712376c
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 15:54:00 2023 +0100
+
+    Calculator Clean up
+
+commit 59111475408d059cb4476911edc2ba27071a3297
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 15:51:48 2023 +0100
+
+    add documentation to calulateBill
+
+commit a85bb91b03030d75606399ef5cdffcb17cb7eb48
+Merge: 644bc5e 9ec4cd8
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 15:30:07 2023 +0100
+
+    Merge branch 'main' of https://github.com/JoakimEnvik/FoodOrder into main
+
+commit 644bc5e8cb44cbc28945ab93f08398bb85424004
+Merge: 6094082 9481794
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 15:28:21 2023 +0100
+
+    Merge branch 'menuTest' into main
+
+commit 94817944a50f915bc761579d52f4be42870f7d0a
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 15:27:12 2023 +0100
+
+    add class MenuTest
+
+commit 9ec4cd81b2592ece3aa4285eb60be34169a9d525
+Merge: 74fc913 6094082
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Mon Feb 13 15:19:02 2023 +0100
+
+    Merge remote-tracking branch 'origin/main'
+
+commit 74fc913d6805c3bdb2ee383f52bad419051dc958
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Mon Feb 13 15:13:54 2023 +0100
+
+    Adding OrderTest.java and cleaning Order.java
+
+commit 60940826f2e471bfc95647b8b42e3154375e3753
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 15:04:26 2023 +0100
+
+    use stringbuilder in showmenu()
+
+commit e83a2cd41ae555d2eb07b814377635dbf4050b09
+Merge: cad8c37 21673e3
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 11:38:23 2023 +0100
+
+    Merge branch 'main' of https://github.com/JoakimEnvik/FoodOrder into main
+
+commit cad8c37522cb72a5982e3c07539600d5699012bd
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 11:38:09 2023 +0100
+
+    change hashmap to private
+
+commit 21673e31fbfc1ac45f890b1cdb1535d2e74da3b6
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 11:35:37 2023 +0100
+
+    change to getMenu in Calculator
+
+commit e9e4d8dd021a5711a700396a2996c6040f73913b
+Merge: e9d9b22 5bd2fcf
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Mon Feb 13 11:32:07 2023 +0100
+
+    Merge remote-tracking branch 'origin/main'
+
+commit e9d9b228bf9baea3ed6f70e4a844a0585c0cf171
+Author: JoakimEnvik <joakimekarlsson@gmail.com>
+Date:   Mon Feb 13 11:31:44 2023 +0100
+
+    Adding Main.java and Order.java
+
+commit 5bd2fcf1078e0a7df4d2b2a9b97d2580b65ef5a4
+Merge: 9856d46 6678974
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 11:26:06 2023 +0100
+
+    calculator test
+
+commit 667897402abc9fe1f8cc8c6d25096ec92b3d8727
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 11:22:23 2023 +0100
+
+    remove calculate from Calculator
+
+commit 835097eb113414b94a359d59221597e698477137
+Author: Tilda Kampman <tilda.kampman@gmail.com>
+Date:   Mon Feb 13 11:12:58 2023 +0100
+
+    write test for calculator
+
+commit 9856d465d3cea4306ab55f9883cf87d87d14a32e
+Author: Sickan666 <jesabo2001@skola.goteborg.se>
+Date:   Mon Feb 13 10:42:00 2023 +0100
+
+    Make class/methods none-static
+
 commit 801654fceaa77419d7deac37ded0e3902f4fbd73
 Merge: 485b4d0 6ba57c6
 Author: Tilda Kampman <tilda.kampman@gmail.com>
