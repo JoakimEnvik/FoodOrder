@@ -38,7 +38,7 @@ public class Menu {
         StringBuilder sb = new StringBuilder();
         for (Map.Entry<String, Integer> entry : foodMenu.entrySet()) {
             sb.append(entry.getKey());
-            sb.append(" costs ");
+            sb.append(" -");
             sb.append(entry.getValue());
             sb.append( " kr ");
             sb.append("\n");
